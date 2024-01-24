@@ -7,3 +7,6 @@
 ✅ Check Password Strength based on Password_Length ( Easy, Medium, Strong)
 
 ✅ Copy Password to Clipboard and Paste It Anywhere To See If It's Actually Working!
+
+
+*no-external-links-and-resources-used
